@@ -2,7 +2,7 @@ This project was created during my time as a student at Code Chrysalis
 
 ## Image detection on Raspberry Pi
  
-I created a program that automatically takes a picture when there is a certrain amount of movementin the camera's shooting range, and sends it to own Line and Slack.
+I created a program that automatically takes a picture when there is a certrain amount of movement in the camera's shooting range, and sends it to own Line and Slack.
 
 <p align="center"><img src="./img/ImageDetection.jpg"></p>
 
